@@ -6,6 +6,7 @@ import Home from "./Home";
 import Service from "./Service";
 import About from "./About";
 import Navbar from "./Navbar";
+import Card from "./Card";
 import Contact from "./Contact";
 import Pokemon from "./Pokemon";
 import {Switch,Route,Redirect} from "react-router-dom";
@@ -17,6 +18,8 @@ function App() {
   return( 
     <>
    <Navbar/>
+   
+   
    
    <Switch>
 
