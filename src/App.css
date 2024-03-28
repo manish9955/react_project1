@@ -1,6 +1,15 @@
 .App {
   text-align: center;
 }
+@import url('https://fonts.googleapis.com/css2?family=Alex+Brush&family=Flavors&family=Imperial+Script&display=swap')
+.navbar-brand{
+  font-size: 2rem !important;
+  color:rgb(0, 119, 255) !important;
+  font-family: "Alex Brush", cursive;
+  font-weight: 400;
+  font-style: normal;
+  
+}
 
 .App-logo {
   height: 40vmin;

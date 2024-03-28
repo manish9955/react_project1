@@ -1,6 +1,7 @@
 import React from "react";
 import {NavLink} from "react-router-dom";
-
+import logo512 from "../src/logo512.png";
+import world from "../src/world.mp4";
 
 
 function Home() {
@@ -11,22 +12,24 @@ function Home() {
           <div className="row">
             <div className="col-10 mx-auto">
             <div className="row">
-             <div className="col-md-6 pt-lg-0 order-2 order-lg-1 d-flex justify-content-center flex-column" >
+             <div className="col-md-6 pt-lg-0 order-2 order-lg-1 d-flex justify-content-center flex-column center" >
               <h1> Grow your business with <strong className="brand-name"><br/> Mk Advertisers</strong>
               </h1>
-              <h4 className="my-3">
+              <h4 className="header">
                 We are the team of talented developers making your product reach to every one globally!
 
               </h4>
               <div className="mt-3">
-                <NavLink to="/service" className="btn-get-started ">Get started</NavLink>
+                <NavLink to="/service" className="btn-get-started  started">Get started</NavLink>
                 
               </div>
              </div>
 
-             <div className="col-lg-6 order-1 order-lg-2 header-img">
-              <img src={"logo512.png"} className="img-fluid animated" alt="home img">
-              </img>
+             <div className="col-lg-6 order-1 order-lg-2 header-img center">
+              
+                <video className="video" autoPlay loop muted plays-inline width="640" height="360">
+                  <source src={world} type="video/mp4"/>
+                </video>
              </div> 
             </div>
             </div>
