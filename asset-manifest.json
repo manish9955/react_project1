@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/react_project1/static/css/main.47b5fa9b.css",
-    "main.js": "/react_project1/static/js/main.a07e31e8.js",
+    "main.css": "/react_project1/static/css/main.a4361e24.css",
+    "main.js": "/react_project1/static/js/main.38614879.js",
     "static/js/453.b48adc41.chunk.js": "/react_project1/static/js/453.b48adc41.chunk.js",
+    "static/media/world.mp4": "/react_project1/static/media/world.af2764b94ee2b6654915.mp4",
     "static/media/flower.jpg": "/react_project1/static/media/flower.6ee1c319fe16f38aa17c.jpg",
     "static/media/daily shop.jpg": "/react_project1/static/media/daily shop.e1a952d945a5d91522e9.jpg",
     "static/media/Website-Development-Designing.png": "/react_project1/static/media/Website-Development-Designing.87df864052299391883b.png",
@@ -10,12 +11,12 @@
     "static/media/digitalmarketing.jpeg": "/react_project1/static/media/digitalmarketing.887ce972d212d0a7baf1.jpeg",
     "static/media/logo.svg": "/react_project1/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/react_project1/index.html",
-    "main.47b5fa9b.css.map": "/react_project1/static/css/main.47b5fa9b.css.map",
-    "main.a07e31e8.js.map": "/react_project1/static/js/main.a07e31e8.js.map",
+    "main.a4361e24.css.map": "/react_project1/static/css/main.a4361e24.css.map",
+    "main.38614879.js.map": "/react_project1/static/js/main.38614879.js.map",
     "453.b48adc41.chunk.js.map": "/react_project1/static/js/453.b48adc41.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.47b5fa9b.css",
-    "static/js/main.a07e31e8.js"
+    "static/css/main.a4361e24.css",
+    "static/js/main.38614879.js"
   ]
 }
